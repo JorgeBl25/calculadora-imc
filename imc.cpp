@@ -15,7 +15,8 @@
         } else if (imc < 30.0) {
             return "Sobrepeso";
         }
-    } 
+        return "Obesidad";
+    }
 
     
     int main () {
