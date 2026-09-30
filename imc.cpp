@@ -15,7 +15,7 @@
         } else if (imc < 30.0) {
             return "Sobrepeso";
         }
-    }
+    } 
 
     
     int main () {
@@ -33,7 +33,7 @@
          double imc = calcularImc (peso , estatura);
         cout << "IMC: " << imc 
              << "(" << clasificarImc(imc) << ")" <<endl;
-             
+
         return 0;
 
     }
