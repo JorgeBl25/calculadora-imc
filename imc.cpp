@@ -1,3 +1,4 @@
+// nombre de autor: Jorge Mateo Bolaños Lora
 #include <iostream>
 #include <string>
 
