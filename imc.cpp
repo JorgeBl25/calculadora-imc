@@ -19,6 +19,10 @@
         return "Obesidad";
     }
 
+    double librasAkilogramos (double libras) {
+        return libras *04536;
+    }
+
     
     int main () {
         double peso, estatura;
