@@ -19,8 +19,8 @@
         return "Obesidad";
     }
 
-    double librasAkilogramos (double libras) {
-        return libras *04536;
+    double librasAkilogramos (double libras) {      // se supone que debe funcionar como un conversor
+        return libras *04536;                // como se que valores transforman a KG?
     }
 
     
